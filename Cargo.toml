@@ -6,7 +6,12 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+html5ever = "0.26.0"
+markup5ever = "0.11.0"
 neon = "0.10.1"
+tendril = "0.4.3"
+xml-rs = "0.8.18"
+xml5ever = "0.17.0"
 xmltree = "0.10.3"
 
 [lib]
